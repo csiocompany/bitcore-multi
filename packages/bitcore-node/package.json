@@ -88,7 +88,7 @@
 	"litecore-p2p": "1.1.2",
 	"@dashevo/dashcore-p2p": "1.2.0",
 	"zcashcore-p2p": "1.1.3",
-	"@csio.company/dogecore-p2p": "1.1.4",
+	"@csio.company/dogecore-p2p": "1.1.5",
 		
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
